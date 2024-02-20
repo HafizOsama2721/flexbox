@@ -7,7 +7,7 @@ style: center
 
 # dartlang
 
-![dartlang logo](dartlang-atom.png)
+![dartlang logo](https://source.unsplash.com/200x200/?nature)
 
 ## A Dart plugin for Atom.
 
